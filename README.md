@@ -4,7 +4,7 @@ This repository delves into captivating concepts from the NBA realm, spotlightin
 
 ## Analysis list
 
--[1]()
+- [Net free-throw attempts](https://github.com/NocturneBear/NBA-hot-take-analysis/tree/main/Net%20free-throw%20attempts)
 
 ## Authors
 
