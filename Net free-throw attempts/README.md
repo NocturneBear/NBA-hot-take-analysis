@@ -6,9 +6,13 @@ In sports analytics, we employ a metric known as **Net Free Throw Attempts (NFTA
 
 Here you can see the [raw data](https://github.com/NocturneBear/NBA-Data-2010-2024) and the [SQL script](https://github.com/NocturneBear/NBA-hot-take-analysis/blob/main/Net%20free-throw%20attempts/NetDifferenceFreeThrows.sql) that calculated this metric, and here is the [final data](https://github.com/NocturneBear/NBA-hot-take-analysis/blob/main/Net%20free-throw%20attempts/NetDifferenceFreeThrows.csv) that I got before visualisation.
 
-Upon examination of the visual representation of the data, it becomes apparent that the LA Lakers consistently maintain a higher Net FTA compared to their competitors. This trend is not only noticeable but also accentuates over the span of the last two seasons. Such a substantial disparity in free throw attempts undoubtedly confers a significant advantage upon the LA Lakers during gameplay.
+Upon examination of the visual representation of the data, it becomes apparent that the LA Lakers consistently maintain a higher Net FTA compared to their competitors. 
+![](https://github.com/NocturneBear/NBA-hot-take-analysis/blob/main/Net%20free-throw%20attempts/images/2023-24-bar-line-chart.png)
+This trend is not only noticeable but also accentuates over the span of the last two seasons. Such a substantial disparity in free throw attempts undoubtedly confers a significant advantage upon the LA Lakers during gameplay.
+![](https://github.com/NocturneBear/NBA-hot-take-analysis/blob/main/Net%20free-throw%20attempts/images/2022-24-bar-line-chart.png)
 
-To further elucidate the magnitude of this advantage, heat maps are employed to provide a graphical representation of the distribution of free throw attempts in comparison to other teams in the league.
+To further elucidate the magnitude of this advantage, bubble chart is used to provide a graphical representation of the distribution of free throw attempts in comparison to other teams in the league.
+![](https://github.com/NocturneBear/NBA-hot-take-analysis/blob/main/Net%20free-throw%20attempts/images/2022-24-bubble-chart.png)
 
 Further, this is purely my subjective opinion and should not be taken as something correct.
 
