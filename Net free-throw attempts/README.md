@@ -16,3 +16,10 @@ To further elucidate the magnitude of this advantage, bubble chart is used to pr
 
 Further, this is purely my subjective opinion and should not be taken as something correct.
 
+In essence, the surge in ratings, viewership, and merchandise sales during the NBA playoffs can largely be attributed to the presence of LeBron James on the court.
+
+LeBron's remarkable influence has been cultivated over his years in the league, a dominance that often manifests in-game through his adeptness at exerting pressure on referees.
+
+Thus, delving into LeBron's impact on the NBA becomes a compelling avenue for future analysis. The Lakers tendency to commit more fouls and subsequent free throws than their opponents is particularly evident in the statistics.
+
+Thank you for reading this far 😅
